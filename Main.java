@@ -3,6 +3,7 @@ class Employee{
     private String name;
     private float salary;
     private String designation;
+    private int age;
     public int getId(){
         return id;
     }
